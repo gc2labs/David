@@ -1,7 +1,7 @@
 body,h1 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 .bgimg {
-  background-image: url('https://metrouk2.files.wordpress.com/2016/04/olympic-rings.jpg?quality=80&strip=all&strip=all');
+  background-image: url('olympics.jpeg');
   min-height: 100%;
   background-position: center;
   background-size: cover;
