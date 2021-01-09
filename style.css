@@ -11,3 +11,7 @@ body, html {height: 100%}
 .color {
   background-color: "red";
 }
+
+.image {
+  width: 100%;
+}
